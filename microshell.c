@@ -6,7 +6,7 @@
 /*   By: rbiodies <rbiodies@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/02 09:35:27 by rbiodies          #+#    #+#             */
-/*   Updated: 2022/03/03 16:44:48 by rbiodies         ###   ########.fr       */
+/*   Updated: 2022/03/03 17:28:07 by rbiodies         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,7 +64,7 @@ int	main(int argc, char **argv, char **envp)
 	int		ret;
 
 	ret = 0;
-	i = 0;
+	i = 1;
 	list = NULL;
 	if (argc > 1)
 	{
