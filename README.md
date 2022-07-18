@@ -1,4 +1,4 @@
-# ✅ Examrank-04
+# ✅ Exam_Rank-04
 ### The aim of the project:
 To write a program that will behave like executing a shell command.
 ### Run:
